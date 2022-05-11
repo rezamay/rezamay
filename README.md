@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rezamay
-- 👀 I’m interested in learning programming and modern web and applications frameworks.
-- 🌱 I’m currently learning Python, and ModX
+- 👀 I’m interested in machine learning and accessability.
+- 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate on building a simple appwrapper to package hypertext books for sale in the app store.
 - 📫 You can reach me at: rezan8r@gmail.com
 
