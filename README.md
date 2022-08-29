@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rezamay
 - 👀 I’m interested in machine learning and accessability.
 - 🌱 I’m currently learning React and Node.js
-- 💞️ I’m looking to collaborate on waterproof bluetooth controlled (non-streaming) audio player.  
+- 💞️ I’m looking to collaborate on a waterproof bluetooth controlled (non-streaming) audio player.  
 - 📫 You can reach me at: rezan8r@gmail.com
 
 <!---
