@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rezan8r@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MN2-xMajfrwrbkuJZWIgsVBflwTYrE3j/edit?usp=sharing&ouid=100019449429152307332&rtpof=true&sd=true](https://docs.google.com/document/d/1MN2-xMajfrwrbkuJZWIgsVBflwTYrE3j/edit?usp=sharing&ouid=100019449429152307332&rtpof=true&sd=true)
+- 📄 Resume [https://docs.google.com/document/d/1MN2-xMajfrwrbkuJZWIgsVBflwTYrE3j/edit?usp=sharing&ouid=100019449429152307332&rtpof=true&sd=true](https://docs.google.com/document/d/1MN2-xMajfrwrbkuJZWIgsVBflwTYrE3j/edit?usp=sharing&ouid=100019449429152307332&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love to social dance! Especially Brazilian Zouk and Argentine Tango!!!**
 
