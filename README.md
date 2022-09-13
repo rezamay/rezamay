@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React and Node.js**
 
-- 👨‍💻 My portfolio is available at [https://www.rezan8r.com/](https://www.rezan8r.com/)
+- 👨‍💻 My portfolio is available at [rezan8r.com](https://www.rezan8r.com/)
 
 - 📫 How to reach me **rezan8r@gmail.com**
 
-- 📄 Resume [https://docs.google.com/document/d/1MN2-xMajfrwrbkuJZWIgsVBflwTYrE3j/edit?usp=sharing&ouid=100019449429152307332&rtpof=true&sd=true](https://docs.google.com/document/d/1MN2-xMajfrwrbkuJZWIgsVBflwTYrE3j/edit?usp=sharing&ouid=100019449429152307332&rtpof=true&sd=true)
+- 📄 Resume [Google Doc](https://docs.google.com/document/d/1MN2-xMajfrwrbkuJZWIgsVBflwTYrE3j/edit?usp=sharing&ouid=100019449429152307332&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love to social dance! Especially Brazilian Zouk and Argentine Tango!!!**
 
