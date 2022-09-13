@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12253
-Fork on GitHub
-3078
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Reza Morin-Dayani</h1>
 <h3 align="center">A passionate full stack software engineer.</h3>
 
