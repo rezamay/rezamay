@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A social media site for dancers.](https://github.com/rezamay/BUB)
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I build full stack apps with MERN - Mongo DB, Express.js, React and Node.js 
 
 - 👨‍💻 My portfolio is available at [rezan8r.com](https://www.rezan8r.com/)
 
