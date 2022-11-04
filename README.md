@@ -11,7 +11,7 @@
 
 - 📄 Resume [Google Doc](https://docs.google.com/document/d/1MN2-xMajfrwrbkuJZWIgsVBflwTYrE3j/edit?usp=sharing&ouid=100019449429152307332&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I love to social dance! Especially Brazilian Zouk and Argentine Tango!!!**
+- ⚡ Fun fact **I love to social dance! Especially Brazilian Zouk and Argentine Tango!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
